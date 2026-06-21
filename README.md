@@ -1,2 +1,14 @@
 # esport-fn-guide
-HTML page archive and documentation
+
+页面发布与维护记录
+
+本仓库作为页面发布目录，保存任务生成的 HTML 文件。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 检查说明
+
+如需核对发布结果，可同时查看 GitHub 文件链接和 Pages 链接。
